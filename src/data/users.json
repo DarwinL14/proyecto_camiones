@@ -1,0 +1,23 @@
+[
+    {
+      "email": "cliente@gmail.com",
+      "password": "c123",
+      "role": "client"
+    },
+    {
+      "email": "transportador@gmail.com",
+      "password": "t123",
+      "role": "transporter"
+    },
+    {
+      "email": "dueno@gmail.com",
+      "password": "d123",
+      "role": "owner"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "a123",
+      "role": "admin"
+    }
+  ]
+  

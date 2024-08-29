@@ -1,0 +1,18 @@
+{
+  "client": {
+    "file": "./pages/vista_cliente.js",
+    "description": "Vista de dashboard para clientes"
+  },
+  "transporter": {
+    "file": "./pages/vista_transportador.js",
+    "description": "Vista de dashboard para transportistas"
+  },
+  "owner": {
+    "file": "./pages/vista_dueño.js",
+    "description": "Vista de dashboard para dueños"
+  },
+  "admin": {
+    "file": "./pages/vista_admin.js",
+    "description": "Vista de dashboard para administradores"
+  }
+}

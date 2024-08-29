@@ -1,0 +1,30 @@
+{
+  "trucks": [
+    {
+      "id": "66d2",
+      "matricula": "uuu111",
+      "capacidad": "10000",
+      "consumo": "10",
+      "estado": "disponible",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMwDDTPLpAyN_fFBikf6bf80Y_qb7p50A9cA&s",
+      "carga": 0,
+      "puntoDePartida": "Bogotá",
+      "destino": "Medellín",
+      "description": "carga fragil",
+      "precio": 840000
+    },
+    {
+      "id": "10c5",
+      "matricula": "aaa111",
+      "capacidad": "50000",
+      "consumo": "8",
+      "estado": "ocupado",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMwDDTPLpAyN_fFBikf6bf80Y_qb7p50A9cA&s",
+      "carga": 1000,
+      "puntoDePartida": "Bogotá",
+      "destino": "Medellín",
+      "description": "carga fragil",
+      "precio": 840000
+    }
+  ]
+}
